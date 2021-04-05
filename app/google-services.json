@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258881460885",
+    "project_id": "fir-upload-2c328",
+    "storage_bucket": "fir-upload-2c328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258881460885:android:993de7918a7d004609d99c",
+        "android_client_info": {
+          "package_name": "com.ossovita.firebaseupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258881460885-0kt9ilhpnft4igakk7pc9hcb62fatooc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDDn5aVsdnGqDUpVUl1368r2Hy_RUjWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258881460885-0kt9ilhpnft4igakk7pc9hcb62fatooc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
